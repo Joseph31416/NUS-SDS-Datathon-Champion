@@ -1,4 +1,8 @@
-# NUS-SDS-Datathon-Champion
+# NUS-SDS-Datathon-Champions-Group
+
+## Dataset Handling Guidelines
+- The dataset is provided by Champions Group. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
+- The dataset must not be shared with anyone outside of the competition, or uploaded to any public repositories / cloud storage.
 
 ## Column Header Descriptions
 
